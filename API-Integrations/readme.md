@@ -38,7 +38,7 @@
 <br/>
 
 ----------
-### <a id="bonus"></a>Bonus Integration Flow: 
+### <a id="bonus"></a>Bonus Integration Flow for Pre-Scheduled Campaigns: 
 **Use Cases**:
 
 1.  As an Optimove client, you wish to integrate Optimove with your promo/bonus system.
